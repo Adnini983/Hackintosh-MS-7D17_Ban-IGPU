@@ -21,5 +21,5 @@ EFI由RapidEFI生成 三码未定制
 |OpenCore版本|1.0.1|RapidEFI生成|
 |机型|iMacPro1,1|正常 理论可装Sequoia|
 
-#待完善问题：#
-- []AX210的蓝牙功能
+# 待完善问题： #
+- [ ]AX210的蓝牙功能
