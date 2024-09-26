@@ -7,6 +7,15 @@ EFI由RapidEFI生成 三码未定制
 刷写显卡vBIOS有风险 这里不提供任何教程 仅提供自用显卡的vBIOS备份数据
 
 # 配置清单： #
-|部件|品牌型号|是否驱动|
+|部件|品牌型号|支持情况|
 |---|---|---|
-|CPU|英特尔 i5-11400|[X]|
+|CPU|英特尔 i5-11400|核显不可|
+|主板|微星MAG B560M MORTAR WIFI|CFG可关|
+|内存|金士顿DDR4 2400HMz 8GB*2|正常|
+|GPU|宏想Commander AMD Radeon RX580 8G(2048SP)|需要刷写成RX570|
+|硬盘|昂达SATA A-48 512G|正常|
+|网卡|Realtek RTL8125 2.5G|正常|
+|Wi-Fi|英特尔 Wi-Fi 6E AX210|建议更换为BCM94360系列|
+|声卡|Realtek ALC897|正常|
+|macOS版本|Ventura 13.6|大部分正常|
+
